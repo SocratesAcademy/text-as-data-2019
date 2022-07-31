@@ -1,1 +1,4 @@
-# tad_19
+- Introduction to Mathematics for Political Science (Course Github Here ; Lecture Videos) 
+- Introduction to Machine Learning for Social Scientists (Political Science 150B, 353B; Syllabus here)
+- Political Methodology III (Political Science 350C, Course Github here)
+- Texts as Data (Political Science 452; Syllabus, Lecture Notes 2014, Lecture videos; Course Github, 2019)
